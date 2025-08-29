@@ -21,8 +21,13 @@ Os testes automatizados cobrem os casos críticos do fluxo de cadastro, permitin
 ```bash
 git clone https://github.com/SEU_USUARIO/qa-bugbank-cadastro-tests.git
 ```
+2.Instale dependências:
 ```bash
 npm install
+```
+3.Execute os testes:
+```bash
+npx cypress open # Para abrir interface interativa
 ```
 
 
