@@ -1,1 +1,1 @@
-# qa-bugbank-functional-tests
+# qa-bugbank-cadastro-tests
