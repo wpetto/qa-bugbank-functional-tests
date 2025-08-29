@@ -20,4 +20,9 @@ Os testes automatizados cobrem os casos críticos do fluxo de cadastro, permitin
 1. Clone o repositório:  
 ```bash
 git clone https://github.com/SEU_USUARIO/qa-bugbank-cadastro-tests.git
+```
+```bash
+npm install
+```
+
 
