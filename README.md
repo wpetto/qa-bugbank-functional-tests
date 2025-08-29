@@ -27,7 +27,7 @@ npm install
 ```
 3.Execute os testes:
 ```bash
-npx cypress open # Para abrir interface interativa
+npx cypress open    #Para abrir interface interativa
 ```
 
 
